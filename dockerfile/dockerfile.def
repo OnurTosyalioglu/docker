@@ -1,0 +1,19 @@
+# defs
+
+MAINTAINER
+
+FROM
+
+COPY
+
+WORKDIR
+
+CMD
+
+RUN
+
+EXPOSE
+
+ENTRYPOINT
+
+ENV
